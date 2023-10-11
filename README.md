@@ -10,7 +10,6 @@ Welcome to **Halloweats** – your go-to destination for spooktacular Halloween 
 
 - Beautifully designed using HTML and CSS to capture the essence of the season.
 - A curated collection of Halloween and fall recipes, from spooky treats to comfort foods.
-- [Add any specific features or functionalities unique to Halloweats.]
 
 
 
