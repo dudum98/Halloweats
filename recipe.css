@@ -1,0 +1,121 @@
+body {
+    margin: 4em 10em;
+    font-size: 12pt;
+    color: black;
+    line-height: 1.5rem;
+    letter-spacing: .1rem;
+    background-color: #E5E8E8;
+    background-image: url('bats.webp'); 
+    background-size: contain; 
+	  background-position: center -40px;
+}
+
+#title {
+    font-size: 3rem;
+    letter-spacing: 1rem;
+    text-align: center;
+    color: #f43a09;
+}
+
+hr {
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.5rem;
+  letter-spacing: .3rem;
+  color: #f43a09;
+}
+
+.container {
+  display: flex;
+}
+
+#main {
+  width: 70%;
+  background-color: white;
+  padding: 2em;
+}
+
+#rightSide {
+  background-color: white;
+  width: 25%;
+  padding: 2em;
+}
+
+.largerPic {
+  width: 99%;
+}
+
+.images {
+  width: 60%;
+  margin-left: 2em;
+}
+
+#nutritionInfo {
+  width: 40%;
+}
+
+ol {
+  margin-left: 2em;
+}
+
+li {
+  margin-top: .8em;
+}
+
+#recipeGap {
+  margin-top: 192rem;
+}
+
+.gifs {
+  width: 40%;
+}
+
+/*=======================================*/
+
+
+.menuBar {
+  margin: auto;
+  width: 50%;
+}
+
+* {
+  font-family: Garamond;
+  padding: 0;
+  }
+
+#ul {
+  list-style: none;
+  background: #22438C;
+  }
+  
+  ul li {
+  display: inline-block;
+  position: relative;
+  
+  }
+  ul li a {
+  display: block;
+  padding: 20px 25px;
+  color: #000000;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  }
+  ul li ul.dropdown li {
+  display: block;
+  }
+  ul li ul.dropdown {
+  width: 100%;
+  background: #FFF;
+  position: absolute;
+  z-index: 999;
+  display: none;
+  }
+  ul li a:hover {
+  background: #f7b183;
+  }
+  ul li:hover ul.dropdown {
+  display: block;
+  }
