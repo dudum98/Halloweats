@@ -11,7 +11,10 @@ Welcome to **SavorTheSpirits** – your go-to destination for spooktacular Hallo
 - Beautifully designed using HTML and CSS to capture the essence of the season.
 - A curated collection of Halloween and fall recipes, from spooky treats to comfort foods.
 
-
+## Contributors
+- **[Contributor 1](https://github.com/pb6416)**
+- **[Contributor 2](https://github.com/shreyadubey04)**
+- **[Contributor 3](https://github.com/duynguyen-264)**
 
 
 
